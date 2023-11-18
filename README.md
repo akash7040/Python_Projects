@@ -1,2 +1,2 @@
-# Python_Projects
-Python Projects
+# calculator-app-using-python
+Build a Calculator app using Python
